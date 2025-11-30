@@ -55,12 +55,12 @@
 
 <div align="center">
   <a href="https://github.com/fikriastamaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=fikriastamaa&show_icons=true&theme=tokyonight&count_private=true" alt="Fikri Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fikriastamaa&show_icons=true&theme=tokyonight&count_private=true" alt="" />
   </a>
   <br/><br/>
   
   <a href="https://github.com/fikriastamaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriastamaa&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriastamaa&layout=compact&theme=tokyonight&langs_count=6" alt="" />
   </a>
   <a href="https://github.com/fikriastamaa">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikriastamaa&theme=tokyonight" alt="Streak" />
@@ -69,10 +69,4 @@
 
 ---
 
-### 🎧 Spotify Playing Now
 
-<div align="center">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Perlu Setup" />
-    <br>
-    <i>(Widget ini belum aktif. Baca panduan di bawah untuk mengaktifkannya)</i>
-</div>
