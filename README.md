@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_GAMBAR_BANNER_KAMU_DISINI" width="100%" alt="Banner Fikri"/>
+  <img src="https://github.com/fikriastamaa/fikriastamaa/blob/main/akufikri3.png?raw=true" width="100%" alt="Banner Fikri"/>
 </div>
 
 <h1 align="center">Hi there, I'm Fikri Astama 👋</h1>
