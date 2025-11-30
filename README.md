@@ -39,27 +39,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+| Languages | Frameworks |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <br> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <br> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> | <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> <br> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <br> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
 
-<br/>
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+| Databases & Tools |
+| :---: |
+| <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 </div>
 
@@ -68,19 +54,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/fikriastamaa">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fikriastamaa&show_icons=true&theme=tokyonight&count_private=true" alt="Fikri's Github Stats" />
-</a>
-<a href="https://github.com/fikriastamaa">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikriastamaa&theme=tokyonight" alt="Fikri's Streak" />
-</a>
-
-<br/>
-<a href="https://github.com/fikriastamaa">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriastamaa&layout=compact&theme=tokyonight&langs_count=8" alt="Fikri's Top Languages" />
-</a>
-
+  <a href="https://github.com/fikriastamaa">
+    <img src="https://github-readme-stats.vercel.app/api?username=fikriastamaa&show_icons=true&theme=tokyonight&count_private=true" alt="Fikri Stats" />
+  </a>
+  <br/><br/>
+  
+  <a href="https://github.com/fikriastamaa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriastamaa&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/fikriastamaa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikriastamaa&theme=tokyonight" alt="Streak" />
+  </a>
 </div>
 
 ---
@@ -88,7 +72,7 @@
 ### 🎧 Spotify Playing Now
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=fikriastamaa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=fikriastamaa](https://open.spotify.com/user/31jul4pj2vt5qfrh4pm6p3nll34y)&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now"/>
-  </a>
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Perlu Setup" />
+    <br>
+    <i>(Widget ini belum aktif. Baca panduan di bawah untuk mengaktifkannya)</i>
 </div>
