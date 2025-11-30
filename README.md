@@ -89,6 +89,6 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=fikriastamaa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fikriastamaa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now"/>
+    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=fikriastamaa](https://open.spotify.com/user/31jul4pj2vt5qfrh4pm6p3nll34y)&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now"/>
   </a>
 </div>
